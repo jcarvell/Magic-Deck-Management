@@ -1,6 +1,6 @@
 // src/App.js
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import DeckListPage from './components/DeckListPage';
 import LoginForm from './components/LoginForm';
 import DeckManagement from './components/DeckManagement';
