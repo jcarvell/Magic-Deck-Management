@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Magic-Deck-Management/static/css/main.0493ae78.css",
-    "main.js": "/Magic-Deck-Management/static/js/main.abd58de8.js",
+    "main.js": "/Magic-Deck-Management/static/js/main.c562d084.js",
     "static/js/453.d9194126.chunk.js": "/Magic-Deck-Management/static/js/453.d9194126.chunk.js",
     "index.html": "/Magic-Deck-Management/index.html",
     "main.0493ae78.css.map": "/Magic-Deck-Management/static/css/main.0493ae78.css.map",
-    "main.abd58de8.js.map": "/Magic-Deck-Management/static/js/main.abd58de8.js.map",
+    "main.c562d084.js.map": "/Magic-Deck-Management/static/js/main.c562d084.js.map",
     "453.d9194126.chunk.js.map": "/Magic-Deck-Management/static/js/453.d9194126.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0493ae78.css",
-    "static/js/main.abd58de8.js"
+    "static/js/main.c562d084.js"
   ]
 }
