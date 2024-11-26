@@ -1,0 +1,47 @@
+/* CardDetails.css */
+
+.card-search-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+    flex-direction: column; /* Aligns search input and results vertically */
+  }
+  
+  .card-display {
+    display: flex;
+    margin-top: 20px;
+    align-items: flex-start; /* Aligns the image and info at the top */
+  }
+  
+  .card-image img {
+    max-width: 300px; /* Adjust the size of the card image */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 5px;
+    margin-right: 20px; /* Space between image and details */
+  }
+  
+  .card-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .card-info h2 {
+    margin-bottom: 10px;
+  }
+  
+  .card-info p {
+    margin: 5px 0;
+  }
+
+    .button-container button {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+  
+    .button-container button:hover {
+        background-color: #ddd; /* Change this to fit your design */
+      }
