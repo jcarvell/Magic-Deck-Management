@@ -4,13 +4,13 @@ import axios from 'axios';
 import {useUser} from '../UserContext';
 
 
- const API_BASE_URL =  "https://localhost:5001/api"  //"https://localhost:7208/api"
-// const API_BASE_URL = "https://165.227.124.129:5000" https://localhost:5001
+//const API_BASE_URL =  "https://localhost:5001/api"  //"https://localhost:7208/api"
+const API_BASE_URL = "http://143.198.11.103:5000" //https://localhost:5001
 
 
 const LoginForm = ({ onLogin }) => {
   const [username, setUsername] = useState('');
-  const navigate = useNavigate();
+  const navigate = useNavigate
   const {setUser} = useUser();
 
   const handleSubmit = async (e) => {
